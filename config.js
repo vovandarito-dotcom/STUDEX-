@@ -1,4 +1,4 @@
 window.STUDEX = {
     SUPABASE_URL: "https://ljcgtoetytoovrcrerbt.supabase.co",
-    ANON_KEY: "ваш_anon_public_ключ_из_supabase"
+    ANON_KEY: "sb_publishable__T5thIhIIIWx1ZRn40KnJg_-grQTJVT"
 };
